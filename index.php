@@ -1,5 +1,5 @@
 <?php
-	$title = "DIY Raspberry Pi Checker";
+  $title = "DIY Raspberry Pi Checker";
   $servers = array(
     'raspberrypi1.com' => array( 'ip' => 'raspberrypi1.com', 'description' => 'Example description for raspberrypi1.com', 'port' => 22),
     'raspberrypi2.com' => array( 'ip' => 'raspberrypi2.com', 'description' => 'Example description for raspberrypi2.com', 'port' => 22),
